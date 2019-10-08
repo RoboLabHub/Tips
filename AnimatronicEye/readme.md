@@ -1,7 +1,7 @@
 # Animatronic eye
 
 <h3>Components</h3>
-- 4 MG90S servos<br/>
+- 4 3.7g servos<br/>
 - Arduino nano<br/>
 
 <h3>Videos</h3>
