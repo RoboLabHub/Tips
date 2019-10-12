@@ -28,12 +28,13 @@ void loop()
   //Serial.print(x2); Serial.print(", ");
   //Serial.print(y2); Serial.print(" ... ");
 
+  // Center postitions of sticks
   int x1_0 = 170;
   int y1_0 = 165;
   int x2_0 = 162;
   int y2_0 = 167;
 
-  int dt = 3;
+  int dt = 3; // Dead zone range (-3 .. +3) where the input will be ignored
 
   if (!map_if_in_range(x1,        0, x1_0-dt,   100,    0) &&
       !map_if_in_range(x1,  x1_0+dt, 340,  0,  -100))
