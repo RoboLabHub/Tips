@@ -32,3 +32,10 @@ Demo video:<br/>
 https://youtu.be/_AYgHXREvbY
 <br/>
 
+# Magic Frame (aka "Slow Dance")
+
+https://github.com/RoboLabHub/Tips/tree/master/Joystick<br/>
+<br/>
+Demo video:<br/>
+https://youtu.be/lPWpf-ejf_E
+<br/>
