@@ -29,3 +29,9 @@ To run robodog V2 with V3 controller that supports Remote Control (you need also
 
 Check this link for HC-05 bluetooth wiring to PI:<br/>
 https://blog.miguelgrinberg.com/post/a-cheap-bluetooth-serial-port-for-your-raspberry-pi/page/0
+
+To control robot you can use the RC:<br/>
+https://github.com/RoboLabHub/RemoteControl
+
+Or the Android application that emulates the RC:<br/>
+https://github.com/RoboLabHub/Tips/tree/master/RoboDog_image/Joystick
